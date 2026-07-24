@@ -18,4 +18,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
+| [2498-frog-jump-ii](https://github.com/amanparganiha/DP/tree/master/2498-frog-jump-ii) |
+## Binary Search
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/amanparganiha/DP/tree/master/2498-frog-jump-ii) |
+## Greedy
+|  |
+| ------- |
+| [2498-frog-jump-ii](https://github.com/amanparganiha/DP/tree/master/2498-frog-jump-ii) |
 <!---LeetCode Topics End-->
