@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/amanparganiha/DP/tree/master/0070-climbing-stairs) |
+| [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
 ## Memoization
 |  |
@@ -17,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
 | [2498-frog-jump-ii](https://github.com/amanparganiha/DP/tree/master/2498-frog-jump-ii) |
 ## Binary Search
