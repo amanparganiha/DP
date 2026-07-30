@@ -27,6 +27,7 @@ The purpose of this repository is to:
 | [0063-unique-paths-ii](https://github.com/amanparganiha/DP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amanparganiha/DP/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/amanparganiha/DP/tree/master/0070-climbing-stairs) |
+| [0120-triangle](https://github.com/amanparganiha/DP/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amanparganiha/DP/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
@@ -39,6 +40,7 @@ The purpose of this repository is to:
 | ------- |
 | [0063-unique-paths-ii](https://github.com/amanparganiha/DP/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amanparganiha/DP/tree/master/0064-minimum-path-sum) |
+| [0120-triangle](https://github.com/amanparganiha/DP/tree/master/0120-triangle) |
 | [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amanparganiha/DP/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
