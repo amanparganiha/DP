@@ -31,6 +31,7 @@ The purpose of this repository is to:
 | [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amanparganiha/DP/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/amanparganiha/DP/tree/master/0416-partition-equal-subset-sum) |
 ## Memoization
 |  |
 | ------- |
@@ -44,6 +45,7 @@ The purpose of this repository is to:
 | [0198-house-robber](https://github.com/amanparganiha/DP/tree/master/0198-house-robber) |
 | [0213-house-robber-ii](https://github.com/amanparganiha/DP/tree/master/0213-house-robber-ii) |
 | [0403-frog-jump](https://github.com/amanparganiha/DP/tree/master/0403-frog-jump) |
+| [0416-partition-equal-subset-sum](https://github.com/amanparganiha/DP/tree/master/0416-partition-equal-subset-sum) |
 | [2498-frog-jump-ii](https://github.com/amanparganiha/DP/tree/master/2498-frog-jump-ii) |
 ## Binary Search
 |  |
